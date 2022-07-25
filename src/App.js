@@ -1,5 +1,6 @@
 import "./App.css";
-import Agenda from "./screen/agenda";
+import Agenda from "./event/screen/agenda";
+
 function App() {
   return (
     <div className="App">
